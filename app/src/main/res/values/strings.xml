@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="your_name">Your name:</string>
+    <string name="save">Save</string>
+</resources>
